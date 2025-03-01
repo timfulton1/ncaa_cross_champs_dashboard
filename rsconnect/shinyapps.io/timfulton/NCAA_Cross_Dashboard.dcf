@@ -1,0 +1,13 @@
+name: NCAA_Cross_Dashboard
+title: NCAA_Cross_Dashboard
+username:
+account: timfulton
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12314454
+bundleId: 9046988
+url: https://timfulton.shinyapps.io/NCAA_Cross_Dashboard/
+when: 1725122448.52426
+lastSyncTime: 1725122448.52428
+asMultiple: FALSE
+asStatic: FALSE
