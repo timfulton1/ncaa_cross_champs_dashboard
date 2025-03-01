@@ -323,18 +323,6 @@ ui <- page_navbar(
     navset_card_underline(
       nav_panel(
         card_header("Women's Teams"),
-        # layout_columns(
-        #   max_height = 50,
-        #   col_widths = c(9, 3),
-        #   div(selectInput(
-        #     inputId = "team_selection_women", 
-        #     label = NULL,
-        #     choices = c("Teams", teams_women),
-        #     selected = ""),
-        #     tags$style(type='text/css', ".selectize-dropdown-content {max-height: 400px; }")
-        #   ),
-        #   actionButton("show_table_women", "Table of All Women's Teams", icon = icon("table"))
-        # ),
         layout_columns(
           fill = FALSE,
           layout_column_wrap(
